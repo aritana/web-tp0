@@ -13,4 +13,4 @@ Link para baixar meu certificado na DIO:
   perfil
 </a>
 
-<img src="https://fegemo.github.io/cefet-web/images/medalha-curso-git-na-dio.png"
+<img src="https://fegemo.github.io/cefet-web/images/medalha-curso-git-na-dio.png">
